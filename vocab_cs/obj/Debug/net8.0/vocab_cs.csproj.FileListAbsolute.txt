@@ -12,3 +12,4 @@ M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\refint\vocab_cs.dll
 M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.pdb
 M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.genruntimeconfig.cache
 M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\ref\vocab_cs.dll
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.sourcelink.json
