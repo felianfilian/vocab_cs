@@ -1,0 +1,14 @@
+M:\Projekte\CSharp\vocab_cs\vocab_cs\bin\Debug\net8.0\vocab_cs.exe
+M:\Projekte\CSharp\vocab_cs\vocab_cs\bin\Debug\net8.0\vocab_cs.deps.json
+M:\Projekte\CSharp\vocab_cs\vocab_cs\bin\Debug\net8.0\vocab_cs.runtimeconfig.json
+M:\Projekte\CSharp\vocab_cs\vocab_cs\bin\Debug\net8.0\vocab_cs.dll
+M:\Projekte\CSharp\vocab_cs\vocab_cs\bin\Debug\net8.0\vocab_cs.pdb
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.AssemblyInfoInputs.cache
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.AssemblyInfo.cs
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.csproj.CoreCompileInputs.cache
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.dll
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\refint\vocab_cs.dll
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.pdb
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\vocab_cs.genruntimeconfig.cache
+M:\Projekte\CSharp\vocab_cs\vocab_cs\obj\Debug\net8.0\ref\vocab_cs.dll
